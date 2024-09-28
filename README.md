@@ -2,7 +2,7 @@
 
 这里是Chao
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chao1998&show_icons=true&theme=algolia" alt="chao1998's github stats" />
-- 正在学习（三天打鱼两天晒网）
+- 🌱 I’m currently learning Python & some Fiancical Lib            
   - [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)
   - [![Python](https://img.shields.io/badge/-Python-FFBB00?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 <!--
