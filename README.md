@@ -2,13 +2,13 @@
 
 这里是魏超
 <img align="right" src="https://github-stats-extended.vercel.app/api?username=chao1998&show_icons=true&theme=algolia" alt="chao1998's github stats" />
-- 🌱 I’m currently learning some Library on Python
-  - [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)
+- 🌱 I’m currently learning some Library on Python and LLM!
+  - [![Datawhale Base LLM](https://img.shields.io/badge/-Base_LLM-0052D9?style=flat-square&logo=github&logoColor=fff)](https://github.com/datawhalechina/base-llm)  
   - [![Python](https://img.shields.io/badge/-Python-FFBB00?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
-    - [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=fff)](https://matplotlib.org/)
-    - [![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=fff)](https://plotly.com/python/)
     - [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=fff)](https://pandas.pydata.org/)
     - [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=fff)](https://numpy.org/)
+    - [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=fff)](https://matplotlib.org/)
+    - [![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=fff)](https://plotly.com/python/)
 <!--
 **chao1998/chao1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
