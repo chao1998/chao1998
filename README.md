@@ -5,10 +5,8 @@
 - 🌱 I’m currently learning some Library on Python
   - [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)
   - [![Python](https://img.shields.io/badge/-Python-FFBB00?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
-  - **🔥 AI & Deep Learning**
-    - [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=fff)](https://pytorch.org/)
-    - [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=fff)](https://www.tensorflow.org/)
-  - **📊 Data Science**
+    - [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=fff)](https://matplotlib.org/)
+    - [![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=fff)](https://plotly.com/python/)
     - [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=fff)](https://pandas.pydata.org/)
     - [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=fff)](https://numpy.org/)
 <!--
