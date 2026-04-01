@@ -11,9 +11,6 @@
   - **📊 Data Science**
     - [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=fff)](https://pandas.pydata.org/)
     - [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=fff)](https://numpy.org/)
-  - **🌐 Web Frameworks**
-    - [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/)
-    - [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=fff)](https://www.djangoproject.com/)
 <!--
 **chao1998/chao1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
