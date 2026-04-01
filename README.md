@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 这里是魏超
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chao1998&show_icons=true&theme=algolia" alt="chao1998's github stats" />
+<img align="right" src="https://github-stats-extended.vercel.app/api?username=chao1998&show_icons=true&theme=algolia" alt="chao1998's github stats" />
 - 🌱 I’m currently learning some Library on Python
   - [![Go](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=Go&logoColor=fff)](https://golang.org/)
   - [![Python](https://img.shields.io/badge/-Python-FFBB00?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
